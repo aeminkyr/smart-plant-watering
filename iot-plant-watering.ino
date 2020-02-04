@@ -7,8 +7,8 @@
 #define DHTTYPE DHT11   // DHT 11
 
 // Set these to run example.
-#define FIREBASE_HOST "plantgrowth-55d65.firebaseio.com"
-#define FIREBASE_AUTH "XTS2Z0iVz9BMaGpvLRJEcB5oLJ2UBjuSPSAdFEuQ"
+#define FIREBASE_HOST "Your Firebase Host Url"
+#define FIREBASE_AUTH "Your Firebase Auth Token"
 #define WIFI_SSID "turkey_router"
 #define WIFI_PASSWORD "aA197171"
 

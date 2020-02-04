@@ -1,0 +1,16 @@
+{
+  "kontrol" : {
+    "pompa" : "\"close\""
+  },
+  "s" : {
+    "hum" : "nan",
+    "miliUser" : "\"500\"",
+    "milimeter" : 4,
+    "milimeterDel" : "1",
+    "moust" : 4,
+    "moustUser" : "0",
+    "pompa" : "\"1\"",
+    "pompa_durumu" : "0",
+    "temp" : "nan"
+  }
+}

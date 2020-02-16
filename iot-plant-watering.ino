@@ -9,8 +9,8 @@
 // Set these to run example.
 #define FIREBASE_HOST "Your Firebase Host Url"
 #define FIREBASE_AUTH "Your Firebase Auth Token"
-#define WIFI_SSID "turkey_router"
-#define WIFI_PASSWORD "aA197171"
+#define WIFI_SSID "Your Wifi Ssid"
+#define WIFI_PASSWORD "Your Wifi Password"
 
 #define dht_dpin D6
 DHT dht(dht_dpin, DHTTYPE); 
